@@ -1,6 +1,6 @@
 # Tech-Camp ESP32 - Einführung C++
 
-Dieses Verzeichniss enthält die Programmierbeispiele für die Einführung in C++ für das Tech-Camp Kannegiesser.
+Dieses Verzeichnis enthält die Programmierbeispiele für die Einführung in C++ für das Tech-Camp Kannegiesser.
 
 Diese ist in die folgenden Abschnitte unterteilt:
 - Lernen
